@@ -118,7 +118,7 @@
 
 
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaikirtisingh&theme=react-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AryanTripathi16&theme=react-dark)
 
 
 
