@@ -106,7 +106,7 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jaikirtisingh&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AryanTripathi16&theme=dark)
 
 
 
@@ -134,13 +134,13 @@
 
 
 
-| Project | Description |
+|      Project       |                        Description                          |
 
-|---|---|
+|---                 |---                                                          |
 
 | **calculator GUI** | Interactive screen layout for calculating numerical values. |
 
-| **** |  |
+| ****               |                                                             |
 
 
 
@@ -150,7 +150,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/jaikirtisingh/jaikirtisingh/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/AryanTripathi16/AryanTripathi16/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
