@@ -135,11 +135,8 @@
 
 
 |      Project       |                        Description                          |
-
-|---                 |---                                                          |
-
+|--------------------|-------------------------------------------------------------|
 | **calculator GUI** | Interactive screen layout for calculating numerical values. |
-
 | ****               |                                                             |
 
 
