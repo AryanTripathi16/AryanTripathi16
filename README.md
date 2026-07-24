@@ -95,31 +95,88 @@
 ---
 
 
+<!-- ## 🐍 Contribution Snake
 
-## 📊 GitHub Stats
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanTripathi16/AryanTripathi16/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanTripathi16/AryanTripathi16/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AryanTripathi16/AryanTripathi16/output/github-snake.svg" />
+</picture>
+
+</div>
+
+	⁠🔧 *To activate the snake:* Create ⁠ .github/workflows/snake.yml ⁠ — see setup below ↓
+
+<details>
+<summary>⚙️ <b>GitHub Action — Snake Setup</b></summary>
+
+Create ⁠ .github/workflows/snake.yml ⁠ in this repo:
+
+⁠ yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ ⁠
+
+</details>
+
+---
+
+## 🗺️ My Journey
 
 
+2023 ──▶️  Started B.Tech CSE
+          └─ C++ foundations | OOP | Problem-solving mindset
+
+2024 ──▶️  Web Dev Begins
+          └─ HTML · CSS · JS · PHP · MySQL | First real projects
+
+2025 ──▶️  MERN Stack Unlocked
+          └─ React · Node.js · Express · MongoDB | REST APIs | Git mastery
+
+2026 ──▶️  AI/ML & Advanced Systems
+          └─ Python · Hugging Face · RAG Pipelines · pgvector · FAiSS
+          └─ PyTorch (CUDA) · XGBoost · scikit-learn · Pandas · Numpy
+          └─ Next.js App Router · JWT Auth (refresh token rotation)
+          └─ Blender 3D · Unreal Engine 5 · AI Animation Systems
+          └─ Claude AI · MCP · Semantic Embeddings
+
+2027 ──▶️  Final Year | Placement Mode 🎯
+          └─ DSA Grind: Java + LeetCode + GFG
+          └─ Cloud: AWS · Docker · DevOps fundamentals
+          └─ ML & AI track | Full-stack portfolio polish
+          └─ TARGET: SWE / SDE / MLE role
 
 
+---
 
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AryanTripathi16&theme=dark)
-
-
-
-
-
-
-
-
-
-
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AryanTripathi16&theme=react-dark)
-
-
-
+-->
 
 
 
