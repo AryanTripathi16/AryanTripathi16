@@ -225,8 +225,6 @@ jobs:
 
 <img src="https://raw.githubusercontent.com/AryanTripathi16/AryanTripathi16/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
-
 
 
 ### 🚀 Daily GitHub Update
