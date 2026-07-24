@@ -34,7 +34,6 @@
 
 ## 🌐 Connect With Me
 
-[
 
 
 
@@ -42,9 +41,8 @@
 
 
 
-](https://www.linkedin.com/in/aryan-tripathi-527ba2300)
+(https://www.linkedin.com/in/aryan-tripathi-527ba2300)
 
-[
 
 
 
@@ -52,7 +50,7 @@
 
 
 
-](mail to:aryantripathi829985@gmail.com)
+(mail to:aryantripathi829985@gmail.com)
 
 
 
