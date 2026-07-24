@@ -90,6 +90,30 @@
 
 </p>
 
+---
+
+
+## 📊 GitHub Stats
+
+<!-- <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AryanTripathi16&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170" alt="Aryan's GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanTripathi16&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+
+</div> -->
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanTripathi16&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/AryanTripathi16)
+
+</div>
+
+<!-- <div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AryanTripathi16&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/AryanTripathi16)
+
+</div> -->
 
 
 ---
