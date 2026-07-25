@@ -232,10 +232,7 @@ jobs:
 ### 🚀 Daily GitHub Update
 
 
-
 ## 📅 Current Focus
-
-
 
 - 📚 Preparing for TCS Prime 
 
@@ -247,8 +244,6 @@ jobs:
 
 ## 🌱 Currently Learning
 
-
-
 - Machine Learning
 
 - Advanced Python for Data Science
@@ -257,12 +252,9 @@ jobs:
 
 ## ✨ Upcoming Features
 
-
-
 - New Data Science Projects
 
 - More SQL Case Studies
-
 
 
 ---
