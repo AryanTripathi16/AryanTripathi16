@@ -55,6 +55,13 @@
 (mail to:aryantripathi829985@gmail.com)
 
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)]
+
+
+(https://aryantripathi16.github.io/portfolio/)
+
+
+
 
 ---
 
