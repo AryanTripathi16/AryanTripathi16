@@ -39,26 +39,15 @@
 
 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
-
-(https://www.linkedin.com/in/aryan-tripathi-527ba2300)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/aryan-tripathi-527ba2300)
 
 
 
 
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mail to:aryantripathi829985@gmail.com)
 
 
-
-(mail to:aryantripathi829985@gmail.com)
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)]
-
-
-(https://aryantripathi16.github.io/portfolio/)
+![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)(https://aryantripathi16.github.io/portfolio/)
 
 
 
