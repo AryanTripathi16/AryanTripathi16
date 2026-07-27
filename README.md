@@ -5,6 +5,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Aryan%20%F0%9F%91%8B&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
 <!-- &desc=Code%20%E2%9A%A1%20Cloud%20%E2%9A%A1%20AI%20%E2%80%94%20where%20curiosity%20meets%20craft&descAlignY=58&descSize=18" -->
 
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6AD4FB&center=true&vCenter=true&random=false&width=650&lines=Final+Year+BTech+CSE+%7C+Cloud+%26+ML+Spec;Full-Stack+Dev+%7C+%2B+Python+%7C+LeetCode;Placement-Ready+%7C+SWE+%7C+SDE)](https://git.io/typing-svg)
+
+<br/>
 
 
 
