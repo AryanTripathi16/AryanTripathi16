@@ -6,13 +6,9 @@
 <!-- &desc=Code%20%E2%9A%A1%20Cloud%20%E2%9A%A1%20AI%20%E2%80%94%20where%20curiosity%20meets%20craft&descAlignY=58&descSize=18" -->
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6AD4FB&center=true&vCenter=true&random=false&width=650&lines=Final+Year+BTech+CSE+%7C+Cloud+%26+ML+Spec;Full-Stack+Dev+%7C+%2BPython+%7C+LeetCode;Placement-Ready+%7C+SWE+%7C+SDE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6AD4FB&center=true&vCenter=true&random=false&width=650&lines=Final+Year+BTech+CSE+%7C+Cloud+%26+ML+Spec;Full-Stack+Dev+Python+%7C+LeetCode;Placement-Ready+%7C+SWE+%7C+SDE)](https://git.io/typing-svg)
 
 <br/>
-
-
-
-### 🚀 Full Stack Developer | 🤖 AI Learner
 
 
 
